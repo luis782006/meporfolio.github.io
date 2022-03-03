@@ -97,8 +97,8 @@ border-radius:5px;
 } 
 .img-banner{
     position:relative;
-    /* background: url("https://cdn.pixabay.com/photo/2021/08/12/10/38/mountains-6540497_960_720.jpg") no-repeat center; */
-    background: url(/imagen-fondo.jpg) no-repeat center;
+    background: url("https://cdn.pixabay.com/photo/2021/08/12/10/38/mountains-6540497_960_720.jpg") no-repeat center;
+ /*    background: url(/imagen-fondo.jpg) no-repeat center; */
     background-size: cover;
     height: 420px;
     overflow: hidden;
